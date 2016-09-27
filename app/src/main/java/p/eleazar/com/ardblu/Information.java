@@ -23,6 +23,7 @@ public class Information extends ActionBarActivity {
             public void onClick(View v) {
                 finish();
             }
+            //Este comentario es solo un parueba para GitHub.
         });
     }
 }
