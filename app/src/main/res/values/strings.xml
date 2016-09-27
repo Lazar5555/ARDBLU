@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ARDBLU</string>
+
+    <string name="action_settings">Acerca de</string>
+    <string name="putpass">Introduce tu contraseña</string>
+    <string name="enter">Entrar</string>
+    <string name="wrong_pass">Contraseña Incorrecta</string>
+    <string name="correct_pass">Bienvenido</string>
+
+    <!-- Actividad dos -->
+    <string name="title_activity_second">ARDBLU</string>
+    <string name="txt_1">Primero</string>
+    <string name="txt_2">Segundo</string>
+    <string name="txt_3">Tercero</string>
+    <string name="btn_dis">Desactivar</string>
+
+
+    <!-- Mensajes Bluetooth -->
+    <string name="notBlu">No cuentas con tecnología Bluetooth</string>
+    <string name="offBlu">Enciende tu Bluetooth</string>
+    <string name="title_activity_list">Selecciona ARDBLUE-BT</string>
+    <string name="failConn">Falló la conexión, verifica que ARDBLUE este encendido</string>
+    <string name="sucessConn">Conexión exitosa</string>
+
+    <!-- Temperatura-->
+    <string name="grados">°C</string>
+
+    <!-- Errores -->
+    <string name="error">Hubo un Error</string>
+    <string name="conn">Conectado</string>
+    <string name="title_activity_information">Información</string>
+
+    <!-- Información -->
+    <string name="team">Equipo de Ingeniería de Software</string>
+    <string name="yo">Eleazar Ponce Bautista</string>
+    <string name="carlos">Carlos Daniel Ornelas Iñiguez</string>
+    <string name="gina">Gina Verónica Sánchez Padilla</string>
+    <string name="montse">Montserrat De León Guerra</string>
+    <string name="luis">Luis Miguel Ramírez A.</string>
+
+</resources>
+
+
